@@ -1,0 +1,76 @@
+{
+  "providers": [
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat1.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF1"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat2.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF2"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat3.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF3"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat4.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF4"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat5.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF5"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat6.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF6"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat7.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF7"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:misc/splats/splat8.png",
+		"ascent": 8,
+		"height": 9,
+		"chars": [
+			"\uEFF8"
+		]
+	}
+  ]
+}
