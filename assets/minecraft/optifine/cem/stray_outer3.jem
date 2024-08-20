@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [64, 32],
-	"texture": "stray3_outer.png",
+	"texture": "stray_outer.png",
 	"models": [
 		{
 			"part": "head",
