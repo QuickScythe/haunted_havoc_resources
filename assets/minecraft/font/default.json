@@ -2,7 +2,7 @@
   "providers": [
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat1.png",
+		"file": "hauntedhavoc:misc/splats/splat1.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -11,7 +11,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat2.png",
+		"file": "hauntedhavoc:misc/splats/splat2.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -20,7 +20,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat3.png",
+		"file": "hauntedhavoc:misc/splats/splat3.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -29,7 +29,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat4.png",
+		"file": "hauntedhavoc:misc/splats/splat4.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -38,7 +38,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat5.png",
+		"file": "hauntedhavoc:misc/splats/splat5.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -47,7 +47,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat6.png",
+		"file": "hauntedhavoc:misc/splats/splat6.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -56,7 +56,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat7.png",
+		"file": "hauntedhavoc:misc/splats/splat7.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
@@ -65,7 +65,7 @@
 	},
 	{
 		"type": "bitmap",
-		"file": "minecraft:misc/splats/splat8.png",
+		"file": "hauntedhavoc:misc/splats/splat8.png",
 		"ascent": 8,
 		"height": 9,
 		"chars": [
